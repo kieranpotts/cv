@@ -1,1 +1,9 @@
 = CV
+
+*Source code and build scripts for my résumé.*
+
+
+''''
+
+Copyright © Kieran Potts — All rights reserved
+
