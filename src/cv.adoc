@@ -1,0 +1,6 @@
+= Kieran Potts
+:pdf-themesdir: {docdir}/themes
+:pdf-theme: cv
+:!outline:
+:nofooter:
+
