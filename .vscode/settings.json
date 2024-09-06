@@ -1,5 +1,18 @@
 {
 
+  /* Spell check language for this repository differs from my default, en-US. */
+  "cSpell.language": "en-GB",
+
+  /* Add custom dictionary for this repository only. */
+  "cSpell.customDictionaries": {
+    "cvDictionary": {
+      "name": "CV Dictionary",
+      "path": "${workspaceFolder:cv}/.cspell/dictionary.txt",
+      "scope":"folder",
+      "addWords": true
+    }
+  },
+
   /* Vertical guidelines for line wrapping. */
   "editor.rulers": [
     80,
