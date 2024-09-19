@@ -4,3 +4,18 @@
 :!outline:
 :nofooter:
 
+:link-linkedin: https://linkedin.com/in/kieranpotts
+:link-github: https://github.com/kieranpotts
+:link-blog: https://kieranpotts.com/
+
+Technical/Solution Architect +
+Staff/Principal Software Developer
+
+[.text-center]
+\hello@kieranpotts.com • 07706 130 393 • Bristol, UK +
+{link-linkedin}[linkedin.com/in/kieranpotts] •
+{link-github}[github.com/kieranpotts] •
+{link-blog}[kieranpotts.com]
+
+''''
+
