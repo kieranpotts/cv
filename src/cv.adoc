@@ -34,36 +34,21 @@ Staff/Principal Software Developer
 
 
 ifdef::history[]
-[%breakable]
-== Employment and education history
 
+<<<<
+
+.Employment and education history
 [cols="1,5"]
 |===
-|2024 - present
-|Contract Software Developer
-
-|2021 - 2023
-|Senior Software Developer, BJSS
-
-|2017 - 2021
-|Contract/Freelance Software Developer
-
-|2016 - 2017
-|Full-Stack Web Developer, Zapmap
-
-|2014 - 2016
-|Front-End Web Developer, investUP
-
-|2005 - 2014
-|Contract/Freelance Web Developer
-
-|2004 - 2005
-|Technology Writer and Deputy Editor of PC Plus, Future Publishing
-
-|2001 - 2003
-|Technology Writer, ITP (Dubai)
-
-|1998 - 2001
-|First-class honours in Human Geography, Leeds University
+|2024 - present |Contract Software Developer
+|2021 - 2023    |Senior Software Developer, BJSS
+|2017 - 2021    |Contract/Freelance Software Developer
+|2016 - 2017    |Full-Stack Web Developer, Zapmap
+|2014 - 2016    |Front-End Web Developer, investUP
+|2005 - 2014    |Contract/Freelance Web Developer
+|2004 - 2005    |Technology Writer and Deputy Editor of PC Plus, Future Publishing
+|2001 - 2003    |Technology Writer, ITP (Dubai)
+|1998 - 2001    |First-class honours in Human Geography, Leeds University
 |===
+
 endif::[]
