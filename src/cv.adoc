@@ -25,6 +25,13 @@ Staff/Principal Software Developer
 * HTTP/RESTful and GraphQL web services
 * PHP, Laravel and Symfony
 
+////
+== Certifications
+
+* GitHub Actions Certification
+* AWS Certified Cloud Practitioner
+////
+
 
 ifdef::history[]
 [%breakable]
