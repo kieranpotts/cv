@@ -3,3 +3,33 @@
 :!outline:
 :nofooter:
 
+
+[.text-right]
+*Kieran Potts* +
+\hello@kieranpotts.com +
+07706 130 393 +
+Bristol, UK
+
+<DD MMM YYYY>
+
+To whom it may concern,
+
+[.text-center]
+[.big]#*<Job Title>*#
+
+I am writing to express my interest in the above role at <Company Name>. I
+believe I will be a good fit for this role, for the following reasons.
+
+* …
+
+* …
+
+* …
+
+
+I am available <from MM YYYY | for an immediate start>.
+
+Please find enclosed my CV. Thank you for considering my application.
+
+Regards, +
+Kieran Potts
