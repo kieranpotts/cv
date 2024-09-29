@@ -17,13 +17,14 @@ Staff/Principal Software Developer
 
 ''''
 
-== Technical specialisations
-
+.Technical specialisations
+****
 * Full-stack web application architecture
 * React, Vue, and other single-page web front-end frameworks
 * JavaScript, TypeScript and Node.js
 * HTTP and GraphQL web API design
 * PHP, Laravel and Symfony
+****
 
 ////
 == Certifications
