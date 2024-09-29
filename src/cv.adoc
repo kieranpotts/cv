@@ -17,6 +17,14 @@ Staff/Principal Software Developer
 
 ''''
 
+== Technical specialisations
+
+* Full-stack web application architecture
+* Single-page web application frameworks
+* JavaScript/TypeScript, Node.js, React and Vue
+* HTTP/RESTful and GraphQL web services
+* PHP, Laravel and Symfony
+
 
 ifdef::history[]
 [%breakable]
