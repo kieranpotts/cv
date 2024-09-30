@@ -80,6 +80,14 @@ Type `Ctrl`+`D` to exit from the container shell.
 See the https://github.com/asciidoctor/docker-asciidoctor[Asciidoctor Docker
 Container documentation] for advanced build commands.
 
+== Acknowledgements
+
+* https://github.com/lirantal/asciidoc-book-starter[AsciiDoc Book Starter],
+maintained by Liran Tal and others, provided a starting point for the build
+configuration and PDF theme.
+
+* https://docs.asciidoctor.org/pdf-converter/latest/theme/[AsciiDoc PDF Theming],
+main reference point.
 
 ''''
 
