@@ -32,6 +32,8 @@ Technical Architect
 * AWS Certified Cloud Practitioner
 ////
 
+== Selected projects
+
 
 ifdef::history[]
 
