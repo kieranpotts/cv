@@ -19,6 +19,8 @@ base:
 
   border_width: 0.25
 
+vertical_rhythm: $base_line_height_length
+
 page:
   layout: portrait
   size: A4

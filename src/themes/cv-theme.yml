@@ -5,7 +5,7 @@
 extends: ./base-theme.yml
 
 page:
-  margin: $base_font_size * 4
+  margin: $vertical_rhythm * 4
 
 heading:
   line_height: 1
@@ -24,13 +24,13 @@ heading:
   # $heading_margin_bottom MUST match $heading_h3_margin_top so the sidebar
   # title looks identical to h2.
   margin_top: 0
-  margin_bottom: $base_font_size * 2
+  margin_bottom: $vertical_rhythm * 2
 
   h1_margin_top: 0
   h1_margin_bottom: 0
 
   # No bottom margin on h2 because it is followed by an h3.
-  h2_margin_top: $base_font_size * 4
+  h2_margin_top: $vertical_rhythm * 4
   h2_margin_bottom: 0
 
   # $heading_h3_margin_top MUST match $heading_margin_bottom so the sidebar
@@ -43,7 +43,7 @@ heading:
   min_height_after: auto
 
 prose:
-  margin_bottom: $base_font_size
+  margin_bottom: $vertical_rhythm
 
 list:
   indent: $base_font_size
@@ -79,8 +79,8 @@ caption:
   font_style: italic
 
   # Margins intended to mimic h2, assumes follows a paragraph.
-  margin_inside: $base_font_size * 2
-  margin_outside: $base_font_size * 3
+  margin_inside: $vertical_rhythm * 2
+  margin_outside: $vertical_rhythm * 3
 
 thematic_break:
   border_color: 000000
@@ -88,11 +88,11 @@ thematic_break:
   border_width: $base_border_width
   # Padding top butts up against padding bottom on the previous paragraph.
   # Padding bottom butts up against the sidebar, which has no padding.
-  padding: [$base_font_size * 3, 0, $base_font_size * 4, 0]
+  padding: [$vertical_rhythm * 3, 0, $vertical_rhythm * 4, 0]
 
 table:
   border_color: 000000
   border_width: $base_border_width
   grid_width: $base_border_width
   cell_line_height: 1
-  cell_padding: $base_font_size / 3
+  cell_padding: $vertical_rhythm / 3
