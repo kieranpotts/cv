@@ -1,6 +1,84 @@
 = CV
 
-*Source code and build scripts for my résumé.*
+:link-docker-image: https://hub.docker.com/r/asciidoctor/docker-asciidoctor
+:link-asciidoctor-pdf: https://asciidoctor.org/docs/asciidoctor-pdf/
+:link-cpdf-binary: https://github.com/coherentgraphics/cpdf-binaries/
+:link-cpdf-license: https://github.com/coherentgraphics/cpdf-binaries/blob/master/LICENSE.md
+
+*Source content and build scripts for my résumé.*
+
+== Documentation
+
+=== Requirements
+
+Before running the build scripts, install and start *Docker Desktop*.
+
+On Windows, it is RECOMMENDED to configure Docker to use WSL 2, and then run
+the build commands from WSL in a terminal running under administrator mode.
+Linux emulators like Git Bash are not sufficient.
+
+=== Building
+
+The {link-docker-image}[official Asciidoctor Docker container image] is used
+to build my CV and cover letter from AsciiDoc source files. The container image
+includes {link-asciidoctor-pdf}[Asciidoctor PDF], which does the compilation.
+
+The `./run/pdf.sh` script encapsulates all the build commands.
+
+[source,bash]
+----
+bash run/pdf.sh
+----
+
+Optional parameters can be passed to the script:
+
+[source,bash]
+----
+bash run/pdf.sh toggle1
+----
+
+These parameters are forwarded as attributes to the Asciidoctor PDF converter,
+and can thus be used in the Asciidoc source files to toggle different bits of
+content.
+
+[source,asciidoc]
+----
+ifdef::toggle1[]
+Print this.
+endif::[]
+
+ifndef::toggle1[]
+Else print this.
+endif::[]
+----
+
+The available parameters are:
+
+* `full`: print the full project list
+* `history`: include the employment and education history section at the end
+
+Another way to interact with the builder is to shell into the container and
+run the Asciidoctor tools interactively. The following command maps this
+repository's root directory to the `/documents` directory inside the container,
+and takes you to the container's shell environment.
+
+[source,bash]
+----
+docker run -it -v ./:/documents/ asciidoctor/docker-asciidoctor
+----
+
+From the container's shell environment, run the following commands.
+
+[source,bash]
+----
+asciidoctor-pdf -D dist src/cv.adoc
+asciidoctor-pdf -D dist src/letter.adoc
+----
+
+Type `Ctrl`+`D` to exit from the container shell.
+
+See the https://github.com/asciidoctor/docker-asciidoctor[Asciidoctor Docker
+Container documentation] for advanced build commands.
 
 
 ''''
