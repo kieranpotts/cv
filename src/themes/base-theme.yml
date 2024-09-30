@@ -1,0 +1,24 @@
+font:
+  catalog:
+    Noto Serif:
+      normal: GEM_FONTS_DIR/notoserif-regular-subset.ttf
+      bold: GEM_FONTS_DIR/notoserif-bold-subset.ttf
+      italic: GEM_FONTS_DIR/notoserif-italic-subset.ttf
+      bold_italic: GEM_FONTS_DIR/notoserif-bold_italic-subset.ttf
+
+base:
+  font_color: 000000
+  font_family: Noto Serif
+  font_size: 9
+  font_style: normal
+  text_align: left
+
+  # https://docs.asciidoctor.org/pdf-converter/latest/theme/base/#height
+  line_height_length: 12
+  line_height: $base_line_height_length / $base_font_size
+
+  border_width: 0.25
+
+page:
+  layout: portrait
+  size: A4

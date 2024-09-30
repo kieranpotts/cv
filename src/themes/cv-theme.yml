@@ -1,70 +1,98 @@
-# This theme extends the default theme:
-# https://github.com/asciidoctor/asciidoctor-pdf/blob/master/data/themes/default-theme.yml
-extends: default
+# References:
+# https://docs.asciidoctor.org/pdf-converter/latest/theme/keys/
+# https://github.com/asciidoctor/asciidoctor-pdf/tree/main/data/themes
 
-base:
-  font_color: 000000
-  font_family: Noto Serif # Built-in font
-  font_size: 8.5
-  line_height: 1.2
-  text_align: left
+extends: ./base-theme.yml
 
 page:
-  layout: portrait
-  margin: [0.75in, 0.75in, 0.5in, 0.75in]
-  size: A4
+  margin: $base_font_size * 4
 
 heading:
-  text_align: left
-  font_style: bold
-  h1_font_size: 21
-  h2_font_size: 15
-  h3_font_size: 12
   line_height: 1
-  margin_top: 18
-  margin_bottom: 9
-  h1_margin_bottom: 4
-  h3_margin_bottom: 2
+
+  text_align: left
+  h1_text_align: left
+
+  font_style: bold
+  h2_font_style: italic
+
+  h1_font_size: $base_font_size * 1.8
+  h2_font_size: $base_font_size * 1.3
+  h3_font_size: $base_font_size
+
+  # These margins are the default also for things like the sidebar title.
+  # $heading_margin_bottom MUST match $heading_h3_margin_top so the sidebar
+  # title looks identical to h2.
+  margin_top: 0
+  margin_bottom: $base_font_size * 2
+
+  h1_margin_top: 0
+  h1_margin_bottom: 0
+
+  # No bottom margin on h2 because it is followed by an h3.
+  h2_margin_top: $base_font_size * 4
+  h2_margin_bottom: 0
+
+  # $heading_h3_margin_top MUST match $heading_margin_bottom so the sidebar
+  # title looks identical to h2.
+  h3_margin_top: $heading_margin_bottom
+  h3_margin_bottom: 0
 
   # Prevents page breaks after headings.
   # [%breakable] are still required.
   min_height_after: auto
 
+prose:
+  margin_bottom: $base_font_size
+
+list:
+  indent: $base_font_size
+  item_spacing: 0
+
+link:
+  font_color: ~
+  text_decoration: none
+
+role:
+  # The "lead" role is built-in and is used for the job title
+  # at the top of the CV. It is styled like an h2, except not italic.
+  lead:
+    font_size: $heading_h2_font_size
+    text_align: left
+    line_height: 1
+
 sidebar:
   background_color: ~
   border_radius: 0
   border_width: 0
-  padding: [0,0,0,0]
+  padding: [0, 0, 0, 0]
   title:
-    font-size: 9
-    text-align: left
+    # Matches h2.
+    font_size: $heading_h2_font_size
+    font_style: italic
+    text_align: left
 
-block:
-  margin_bottom: 9
+caption:
+  # Matches h2.
+  align: left
+  font_size: $heading_h2_font_size
+  font_style: italic
 
-prose:
-  margin_bottom: 9
+  # Margins intended to mimic h2, assumes follows a paragraph.
+  margin_inside: $base_font_size * 2
+  margin_outside: $base_font_size * 3
 
-list:
-  indent: 9
-  item_spacing: 0
+thematic_break:
+  border_color: 000000
+  border_style: solid
+  border_width: $base_border_width
+  # Padding top butts up against padding bottom on the previous paragraph.
+  # Padding bottom butts up against the sidebar, which has no padding.
+  padding: [$base_font_size * 3, 0, $base_font_size * 4, 0]
 
-description_list:
-  description_indent: 0
-  indent: 0
-  term_font_style: bold
-  term_spacing: 0
-
-link:
-  font_color: ~
-  text_decoration: underline
-
-role:
-  # Lead role is used for job title at top of CV.
-  lead:
-    font_size: 12
-    text_align: center
-  role:
-    font_size: 0.75em
-  tags:
-    font_size: 0.85em
+table:
+  border_color: 000000
+  border_width: $base_border_width
+  grid_width: $base_border_width
+  cell_line_height: 1
+  cell_padding: $base_font_size / 3
