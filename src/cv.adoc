@@ -2,6 +2,7 @@
 :pdf-themesdir: {docdir}/themes
 :pdf-theme: cv
 :!outline:
+:table-caption!:
 :nofooter:
 
 :link-linkedin: https://linkedin.com/in/kieranpotts
@@ -35,9 +36,6 @@ Principal Software Developer
 
 
 ifdef::history[]
-
-<<<<
-
 .Employment and education history
 [cols="1,5"]
 |===
