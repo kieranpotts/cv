@@ -5,5 +5,7 @@
 
 ''''
 
-Copyright © Kieran Potts — All rights reserved
+Copyright © 2020-present Kieran Potts, all rights reserved
 
+The bundled {link-cpdf-binary}[cpdf binary] is licensed under the
+{link-cpdf-license}[GNU Affero General Public License].
