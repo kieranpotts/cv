@@ -14,23 +14,24 @@ Principal Software Developer
 {link-linkedin}[linkedin.com/in/kieranpotts] • {link-github}[github.com/kieranpotts] • {link-blog}[kieranpotts.com] +
 \hello@kieranpotts.com • 07706 130 393 • Bristol, UK
 
-''''
+== Specialisations
 
-.Specialisations
-****
-* Full-stack web application architecture
-* React, Vue, and other single-page web front-end frameworks
-* JavaScript, TypeScript and Node.js
-* HTTP and GraphQL web API design
-* PHP, Laravel and Symfony
+* Full-stack web application design
+* React, Vue, front-end web UIs
+* HTTP and GraphQL APIs
+* JavaScript, TypeScript, Node.js
+* PHP, Laravel
 
-Current certifications:
+== Certifications
 
 * GitHub Actions
-****
+
+== Selected projects
 
 
 ifdef::history[]
+[%unbreakable]
+--
 .Employment and education history
 [cols="1,5"]
 |===
@@ -44,5 +45,5 @@ ifdef::history[]
 |2001 - 2003    |Technology Writer, ITP (Dubai)
 |1998 - 2001    |First-class honours in Human Geography, Leeds University
 |===
-
+--
 endif::[]
