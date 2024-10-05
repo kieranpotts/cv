@@ -51,6 +51,18 @@ datasets in parallel across a computer cluster.
 ////
 --
 
+ifdef::full[]
+[%unbreakable]
+--
+*LiveMore Mortgages* +
+Technical Lead, 2024
+
+* Planned and coordinated a successful big-bang deployment of a major new feature
+* Deployed multiple service updates to AWS, automated via CodeDeploy and GitHub Actions
+* Implemented Jira Service Desk with Slack integration to improve customer support management
+* Consolidated fragmented technical documentation into a single Confluence space
+--
+endif::[]
 
 ////
 NOTES:
