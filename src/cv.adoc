@@ -99,6 +99,24 @@ Senior Software Developer, 2021
 * Conducted manual accessibility testing using assistive technologies such as NVDA
 --
 
+[%unbreakable]
+--
+*TimeTrack* +
+Technical Lead, 2020 - 2021
+
+* Coordinated a remote team of contractors and freelancers; oversaw all design and development activities
+* Worked closely with the business owner to design the core data processing algorithms
+* Established an RFC-style system to document technical proposals and key design decisions
+* Implemented a back-end service as a modular monolith, designed for extraction into services
+* Took a domain-driven design approach to application architecture
+* Prototyped a single-page web application built with React, served by an HTTP API gateway
+* Created extensions for Chromium browsers and Firefox, compiled from a single source
+* Repurposed a Material Design component library for the UI
+* Planned for scalability from the start, eg. denormalization and read-write segregation in database
+* Node.js workers were used to leverage multi-threading in the main request-response cycle
+* Long-running data processing tasks were queued in a job scheduling system
+--
+
 
 ifdef::history[]
 [%unbreakable]
