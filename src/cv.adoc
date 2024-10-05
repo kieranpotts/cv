@@ -205,8 +205,8 @@ Full-Stack Web Developer, 2016 - 2017
 * Designed and implemented a new HTTP API, decoupling the client-side from the server-side
 * Supervised the development of iOS and Android clients
 * Worked with the data engineer to iterate the database design in a non-breaking way
-* Optimised slow-running SQL queries, and added load balancing and caching infrastructure
-* Administered physical Linux (CentOS) servers
+* Optimised slow-running SQL queries; added load balancing and caching infrastructure
+* Administered physical Linux servers (CentOS)
 * Planned for an incremental transition to cloud infrastructure (GCP)
 --
 
