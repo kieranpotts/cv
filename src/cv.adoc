@@ -171,6 +171,19 @@ Software Developer, 2018
 endif::[]
 
 ifdef::full[]
+[%unbreakable]
+--
+*DenGro* +
+Full-Stack Web Developer, 2017
+
+* Helped launch an enterprise software-as-a-service built on Laravel
+* Collaborated with UX designers on critical user journeys
+* Redesigned the onboarding journey, in which early user testing revealed poor conversion rates
+* Refactored code to improve time-to-first render and other performance metrics
+* Made extensive use of Laravel's jobs queue system to remove processing from the main execution thread
+--
+endif::[]
+
 
 ifdef::history[]
 [%unbreakable]
