@@ -195,6 +195,21 @@ Technical Writer, 2017
 --
 endif::[]
 
+[%unbreakable]
+--
+*Zapmap* +
+Full-Stack Web Developer, 2016 - 2017
+
+* Collaborated closely with business stakeholders
+* Begun work to increment away from a tightly coupled monolith to a more scalable solution
+* Designed and implemented a new HTTP API, decoupling the client-side from the server-side
+* Supervised the development of iOS and Android clients
+* Worked with the data engineer to iterate the database design in a non-breaking way
+* Optimised slow-running SQL queries, and added load balancing and caching infrastructure
+* Administered physical Linux (CentOS) servers
+* Planned for an incremental transition to cloud infrastructure (GCP)
+--
+
 --
 endif::[]
 
