@@ -40,9 +40,9 @@ ifdef::history[]
 |2017 - 2021    |Software Consultant, Kieran Potts Consultancy Ltd
 |2016 - 2017    |Full-Stack Web Developer, Zapmap
 |2014 - 2016    |Front-End Web Developer, investUP
-|2005 - 2014    |Freelance Web Developer
+|2006 - 2014    |Freelance Web Developer
 |2004 - 2005    |Technology Writer, Deputy Editor of PC Plus magazine, Future Publishing
-|2001 - 2003    |Technology Writer, ITP (Dubai)
+|2001 - 2003    |Staff Writer, ITP (Dubai)
 |1998 - 2001    |First-class honours in Human Geography, Leeds University
 |===
 --
