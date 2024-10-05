@@ -31,7 +31,7 @@ Staff Software Developer
 [%unbreakable]
 --
 *LexisNexis Risk Solutions* +
-Software Developer III, 2024
+Software Developer III • Contract • 2024
 
 * Supported the redesign of the company's flagship identity screening service
 * Iterated the design of a new API gateway service, written in PHP with Laravel
@@ -55,7 +55,7 @@ ifdef::full[]
 [%unbreakable]
 --
 *LiveMore Mortgages* +
-Technical Lead, 2024
+Technical Lead • Permanent • 2024
 
 * Planned and coordinated a successful big-bang deployment of a major new feature
 * Deployed multiple service updates to AWS, automated via CodeDeploy and GitHub Actions
@@ -67,7 +67,7 @@ endif::[]
 [%unbreakable]
 --
 *Specsavers* +
-Senior Software Developer, 2021 - 2023
+Senior Software Developer at BJSS • Permanent • 2021 - 2023
 
 * Rebuilt a monolithic business system as a distributed cloud service
 * Implemented a micro front-end architecture that supported SPA development across six teams
@@ -91,7 +91,7 @@ centralized cloud service, to be incrementally rolled out globally.
 [%unbreakable]
 --
 *Moorfields Eye Hospital* +
-Senior Software Developer, 2021
+Senior Software Developer at BJSS • Permanent • 2021
 
 * Created a statically-generated web front-end complying with WCAG Level AA accessibility standards
 * Contributed to a library of custom UI components built with Vue
@@ -102,7 +102,7 @@ Senior Software Developer, 2021
 [%unbreakable]
 --
 *TimeTrack* +
-Technical Lead, 2020 - 2021
+Technical Lead • Freelance • 2020 - 2021
 
 * Coordinated a remote team of contractors and freelancers; oversaw all design and development activities
 * Worked closely with the business owner to design the core data processing algorithms
@@ -121,7 +121,7 @@ ifdef::full[]
 [%unbreakable]
 --
 *Zylo Performance* +
-Full-Stack Web Developer, 2020 - 2021
+Full-Stack Web Developer • Freelance • 2020 - 2021
 
 * Developed and maintained a custom business process management system in Drupal
 * Integrated payment card processing (FideliPay) and Direct Debits (GoCardless)
@@ -133,7 +133,7 @@ ifdef::full[]
 [%unbreakable]
 --
 *Maker DAO* +
-Front-End Web Developer, 2019 - 2020
+Front-End Web Developer • Freelance • 2019 - 2020
 
 * Created a responsive, mobile-first theme
 * Adopted the utility-class methodology to CSS architecture
@@ -144,7 +144,7 @@ endif::[]
 [%unbreakable]
 --
 *Redgate Software* +
-Technical Lead, 2018 - 2019
+Technical Lead at Helastel • Contract • 2018 - 2019
 
 * Led a project to transition the SQLServerCentral.com website to a new tech stack
 * Gathered requirements via client conversations and reverse engineering of existing system
@@ -161,7 +161,7 @@ ifdef::full[]
 [%unbreakable]
 --
 *Fresenius Kabi* +
-Software Developer, 2018
+Software Developer at Helastel • Contract • 2018
 
 * Salvaged a struggling software project
 * Identified and prioritised issues
@@ -174,7 +174,7 @@ ifdef::full[]
 [%unbreakable]
 --
 *DenGro* +
-Full-Stack Web Developer, 2017
+Full-Stack Web Developer • Contract • 2017
 
 * Helped launch an enterprise software-as-a-service built on Laravel
 * Collaborated with UX designers on critical user journeys
@@ -188,7 +188,7 @@ ifdef::full[]
 [%unbreakable]
 --
 *CurrencyCloud* +
-Technical Writer, 2017
+Technical Writer • Freelance • 2017
 
 * Rewrote all user-facing documentation to improve accuracy and readability
 * Reverse-engineered CurrencyCloud's public web service to create a complete OpenAPI specification
@@ -198,7 +198,7 @@ endif::[]
 [%unbreakable]
 --
 *Zapmap* +
-Full-Stack Web Developer, 2016 - 2017
+Full-Stack Web Developer • Permanent • 2016 - 2017
 
 * Collaborated closely with business stakeholders
 * Begun work to increment away from a tightly coupled monolith to a more scalable solution
@@ -214,7 +214,7 @@ ifdef::full[]
 [%unbreakable]
 --
 *investUP* +
-Front-End Web Developer, 2014 - 2016
+Front-End Web Developer • Permanent • 2014 - 2016
 
 * Implemented a lightweight, responsive single-page web application
 * Created a custom framework inspired by Backbone's MV*-style architecture
