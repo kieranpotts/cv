@@ -141,6 +141,22 @@ Front-End Web Developer, 2019 - 2020
 --
 endif::[]
 
+[%unbreakable]
+--
+*Redgate Software* +
+Technical Lead, 2018 - 2019
+
+* Led a project to transition the SQLServerCentral.com website to a new tech stack
+* Gathered requirements via client conversations and reverse engineering of existing system
+* Documented a complete target specification for the replacement system
+* Undertook rapid prototyping to help estimate costs and timelines, and to mitigate delivery risks
+* Used monthly checkpoints to establish trust with the customer
+* Created dozens of custom WordPress plugins
+* Wrote scripts to automate the migration of 17 years of editorial and user-generated content
+* Switched-over with minimal downtime and no subsequent issues in production
+* The solution, delivered on time and to budget, met all functional and non-functional requirements
+--
+
 
 ifdef::history[]
 [%unbreakable]
