@@ -157,6 +157,20 @@ Technical Lead, 2018 - 2019
 * The solution, delivered on time and to budget, met all functional and non-functional requirements
 --
 
+ifdef::full[]
+[%unbreakable]
+--
+*Fresenius Kabi* +
+Software Developer, 2018
+
+* Salvaged a struggling software project
+* Identified and prioritised issues
+* Enhanced the accuracy of project estimation and delivery reports
+* Successfully delivered a custom CRM operating on the NHS IT network
+--
+endif::[]
+
+ifdef::full[]
 
 ifdef::history[]
 [%unbreakable]
