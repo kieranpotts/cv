@@ -73,7 +73,7 @@ Senior Software Developer, 2021 - 2023
 * Implemented a micro front-end architecture that supported SPA development across six teams
 * Maintained a Vue-based UI component library, documented using Storybook
 * Contributed to back-end services written in Java on the Spring Framework
-* Implemented a GraphQL API gateway service, and consulted on the design of client-server contracts
+* Implemented a GraphQL API gateway service; consulted on the design of client-server contracts
 * Collaborated with business analysts on software requirements specifications and acceptance criteria
 * Collaborated with QA engineers on automated system tests using Selenium
 * Collaborated with platform engineers on Azure DevOps automation
