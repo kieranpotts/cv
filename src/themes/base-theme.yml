@@ -1,3 +1,7 @@
+# References:
+# https://docs.asciidoctor.org/pdf-converter/latest/theme/keys/
+# https://github.com/asciidoctor/asciidoctor-pdf/tree/main/data/themes
+
 font:
   catalog:
     Noto Serif:
@@ -24,3 +28,14 @@ vertical_rhythm: $base_line_height_length
 page:
   layout: portrait
   size: A4
+
+prose:
+  margin_bottom: $vertical_rhythm
+
+list:
+  indent: $base_font_size
+  item_spacing: 0
+
+link:
+  font_color: ~
+  text_decoration: none

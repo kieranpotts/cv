@@ -1,7 +1,3 @@
-# References:
-# https://docs.asciidoctor.org/pdf-converter/latest/theme/keys/
-# https://github.com/asciidoctor/asciidoctor-pdf/tree/main/data/themes
-
 extends: ./base-theme.yml
 
 page:
@@ -27,17 +23,6 @@ heading:
   # Prevents page breaks after headings.
   # [%breakable] are still required.
   min_height_after: auto
-
-prose:
-  margin_bottom: $vertical_rhythm
-
-list:
-  indent: $base_font_size
-  item_spacing: 0
-
-link:
-  font_color: ~
-  text_decoration: none
 
 role:
   # The "lead" role is built-in and is used for the job title

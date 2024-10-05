@@ -1,0 +1,4 @@
+extends: ./base-theme.yml
+
+page:
+  margin: $base_font_size * 8
