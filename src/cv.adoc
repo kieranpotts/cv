@@ -117,6 +117,18 @@ Technical Lead, 2020 - 2021
 * Long-running data processing tasks were queued in a job scheduling system
 --
 
+ifdef::full[]
+[%unbreakable]
+--
+*Zylo Performance* +
+Full-Stack Web Developer, 2020 - 2021
+
+* Developed and maintained a custom business process management system in Drupal
+* Integrated payment card processing (FideliPay) and Direct Debits (GoCardless)
+* Used Adobe XD to mock UI designs and plan user journeys
+--
+endif::[]
+
 
 ifdef::history[]
 [%unbreakable]
