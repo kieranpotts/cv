@@ -64,10 +64,27 @@ Technical Lead, 2024
 --
 endif::[]
 
+[%unbreakable]
+--
+*Specsavers* +
+Senior Software Developer, 2021 - 2023
+
+* Rebuilt a monolithic business system as a distributed cloud service
+* Implemented a micro front-end architecture that supported SPA development across six teams
+* Maintained a Vue-based UI component library, documented using Storybook
+* Contributed to back-end services written in Java on the Spring Framework
+* Implemented a GraphQL API gateway service, and consulted on the design of client-server contracts
+* Collaborated with business analysts on software requirements specifications and acceptance criteria
+* Collaborated with QA engineers on automated system tests using Selenium
+* Collaborated with platform engineers on Azure DevOps automation
+* Steered a cross-team technical standards alignment group
+* Proposed and gathered consensus for better ways of working
+
 ////
 NOTES:
-ECL is similar in concept to Hadoop's MapReduce programming model. It enables
-the processing of big datasets in parallel across a computer cluster.
+Socrates is Specsavers' patient management system. The legacy version is a
+long-lived desktop Java application. The new version, Socrates Cloud, is a
+centralized cloud service, to be incrementally rolled out globally.
 ////
 --
 
