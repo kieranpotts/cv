@@ -217,7 +217,7 @@ ifdef::full[]
 Front-End Web Developer, 2014 - 2016
 
 * Implemented a lightweight, responsive single-page web application
-* Created a lightweight custom framework inspired by Backbone's MV*-style architecture
+* Created a custom framework inspired by Backbone's MV*-style architecture
 * Developed a custom UI component library with a living style guide
 * Implemented the "`cut the mustard`" progressive enhancement technique
 * Made extensive use of data visualisation to summarise financial data
