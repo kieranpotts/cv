@@ -14,29 +14,15 @@ heading:
   h1_text_align: left
 
   font_style: bold
-  h2_font_style: italic
 
   h1_font_size: $base_font_size * 1.8
   h2_font_size: $base_font_size * 1.3
-  h3_font_size: $base_font_size
-
-  # These margins are the default also for things like the sidebar title.
-  # $heading_margin_bottom MUST match $heading_h3_margin_top so the sidebar
-  # title looks identical to h2.
-  margin_top: 0
-  margin_bottom: $vertical_rhythm * 2
 
   h1_margin_top: 0
   h1_margin_bottom: 0
 
-  # No bottom margin on h2 because it is followed by an h3.
-  h2_margin_top: $vertical_rhythm * 4
-  h2_margin_bottom: 0
-
-  # $heading_h3_margin_top MUST match $heading_margin_bottom so the sidebar
-  # title looks identical to h2.
-  h3_margin_top: $heading_margin_bottom
-  h3_margin_bottom: 0
+  h2_margin_top: $vertical_rhythm * 2
+  h2_margin_bottom: $vertical_rhythm * 1
 
   # Prevents page breaks after headings.
   # [%breakable] are still required.
@@ -55,40 +41,21 @@ link:
 
 role:
   # The "lead" role is built-in and is used for the job title
-  # at the top of the CV. It is styled like an h2, except not italic.
+  # at the top of the CV. It is styled like an h2.
   lead:
     font_size: $heading_h2_font_size
     text_align: left
     line_height: 1
 
-sidebar:
-  background_color: ~
-  border_radius: 0
-  border_width: 0
-  padding: [0, 0, 0, 0]
-  title:
-    # Matches h2.
-    font_size: $heading_h2_font_size
-    font_style: italic
-    text_align: left
-
 caption:
   # Matches h2.
   align: left
   font_size: $heading_h2_font_size
-  font_style: italic
+  font_style: bold
 
   # Margins intended to mimic h2, assumes follows a paragraph.
-  margin_inside: $vertical_rhythm * 2
-  margin_outside: $vertical_rhythm * 3
-
-thematic_break:
-  border_color: 000000
-  border_style: solid
-  border_width: $base_border_width
-  # Padding top butts up against padding bottom on the previous paragraph.
-  # Padding bottom butts up against the sidebar, which has no padding.
-  padding: [$vertical_rhythm * 3, 0, $vertical_rhythm * 4, 0]
+  margin_inside: $vertical_rhythm * 1
+  margin_outside: $vertical_rhythm * 1
 
 table:
   border_color: 000000
