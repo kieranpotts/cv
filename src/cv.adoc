@@ -129,6 +129,18 @@ Full-Stack Web Developer, 2020 - 2021
 --
 endif::[]
 
+ifdef::full[]
+[%unbreakable]
+--
+*Maker DAO* +
+Front-End Web Developer, 2019 - 2020
+
+* Created a responsive, mobile-first theme
+* Adopted the utility-class methodology to CSS architecture
+* Contributed to copywriting and search engine optimisation
+--
+endif::[]
+
 
 ifdef::history[]
 [%unbreakable]
