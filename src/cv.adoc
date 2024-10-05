@@ -184,6 +184,19 @@ Full-Stack Web Developer, 2017
 --
 endif::[]
 
+ifdef::full[]
+[%unbreakable]
+--
+*CurrencyCloud* +
+Technical Writer, 2017
+
+* Rewrote all user-facing documentation to improve accuracy and readability
+* Reverse-engineered CurrencyCloud's public web service to create a complete OpenAPI specification
+--
+endif::[]
+
+--
+endif::[]
 
 ifdef::history[]
 [%unbreakable]
