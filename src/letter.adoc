@@ -1,11 +1,11 @@
 :pdf-themesdir: {docdir}/themes
-:pdf-theme: cv
+:pdf-theme: letter
 :!outline:
 :nofooter:
 
 
 [.text-right]
-*Kieran Potts* +
+Kieran Potts +
 \hello@kieranpotts.com +
 07706 130 393 +
 Bristol, UK
@@ -14,22 +14,13 @@ Bristol, UK
 
 To whom it may concern,
 
-[.text-center]
-[.big]#*<Job Title>*#
+== <Job Title>
 
-I am writing to express my interest in the above role at <Company Name>. I
-believe I will be a good fit for this role, for the following reasons.
-
-* …
-
-* …
-
-* …
+I am writing to express my interest in the above role at <Company Name>.
 
 
 I am available <from MM YYYY | for an immediate start>.
-
-Please find enclosed my CV. Thank you for considering my application.
+Thank you for considering my application.
 
 Regards, +
 Kieran Potts
