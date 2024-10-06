@@ -1,8 +1,5 @@
 extends: ./base-theme.yml
 
-page:
-  margin: $vertical_rhythm * 4
-
 heading:
   line_height: 1
 
