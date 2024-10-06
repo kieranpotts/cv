@@ -93,7 +93,8 @@ centralized cloud service, to be incrementally rolled out globally.
 *Moorfields Eye Hospital* +
 Senior Software Developer at BJSS • Permanent • 2021
 
-* Created a statically-generated web front-end complying with WCAG Level AA accessibility standards
+* Created a statically-generated web front-end using Nuxt
+* Compliance with WCAG Level AA accessibility standards
 * Contributed to a library of custom UI components built with Vue
 * Set up automated accessibility tests using aXe and visual regression tests using WebDriverIO
 * Conducted manual accessibility testing using assistive technologies such as NVDA
