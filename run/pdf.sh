@@ -54,3 +54,4 @@ sudo chown $me:$me "$BUILD_DIR/Kieran Potts - Cover Letter.pdf"
   AND -set-title "Kieran Potts - CV and Cover Letter" \
   -o $BUILD_DIR/"Kieran Potts - CV and Cover Letter.pdf" &> /dev/null
 
+sudo chown $me:$me "$BUILD_DIR/Kieran Potts - CV and Cover Letter.pdf"
