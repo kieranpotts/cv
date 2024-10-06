@@ -3,6 +3,20 @@
 :!outline:
 :nofooter:
 
+////
+NOTE: Custom edits to this file, for specific job applications, should not be
+committed. To configure Git to ignore changes to this file, run:
+
+  git update-index --assume-unchanged src/letter.adoc
+
+To remove the ignore flag:
+
+  git update-index --no-assume-unchanged src/letter.adoc
+
+To reset working changes to the last commit:
+
+  git checkout HEAD -- src/letter.adoc
+////
 
 [.text-right]
 Kieran Potts +
