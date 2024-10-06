@@ -105,8 +105,9 @@ Senior Software Developer at BJSS • Permanent • 2021
 *TimeTrack* +
 Technical Lead • Freelance • 2020 - 2021
 
+* R&D project to build a proof-of-concept automated time logging system
 * Coordinated a remote team of contractors and freelancers; oversaw all design and development activities
-* Worked closely with the business owner to design the core data processing algorithms
+* Worked closely with the business owner on core data processing algorithm experiments
 * Established an RFC-style system to document technical proposals and key design decisions
 * Implemented a back-end service as a modular monolith, designed for extraction into services
 * Took a domain-driven design approach to application architecture
