@@ -69,13 +69,13 @@ endif::[]
 *Specsavers* +
 Senior Software Developer at BJSS • Permanent • 2021 - 2023
 
-* Rebuilt a monolithic business system as a distributed cloud service
+* Rebuilt a monolithic desktop program as a distributed cloud application
 * Implemented a micro front-end architecture that supported SPA development across six teams
 * Maintained a Vue-based UI component library, documented using Storybook
 * Contributed to back-end services written in Java on the Spring Framework
 * Implemented a GraphQL API gateway service; consulted on the design of client-server contracts
 * Collaborated with business analysts on software requirements specifications and acceptance criteria
-* Collaborated with QA engineers on automated system tests using Selenium
+* Collaborated with QA engineers on automated UI tests using Selenium
 * Collaborated with platform engineers on Azure DevOps automation
 * Steered a cross-team technical standards alignment group
 * Proposed and gathered consensus for better ways of working
@@ -93,8 +93,7 @@ centralized cloud service, to be incrementally rolled out globally.
 *Moorfields Eye Hospital* +
 Senior Software Developer at BJSS • Permanent • 2021
 
-* Created a statically-generated web front-end using Nuxt
-* Compliance with WCAG Level AA accessibility standards
+* Created a statically-generated web front-end using Nuxt; compliance with WCAG Level AA accessibility standards
 * Contributed to a library of custom UI components built with Vue
 * Set up automated accessibility tests using aXe and visual regression tests using WebDriverIO
 * Conducted manual accessibility testing using assistive technologies such as NVDA
@@ -107,7 +106,7 @@ Technical Lead • Freelance • 2020 - 2021
 
 * R&D project to build a proof-of-concept automated time logging system
 * Coordinated a remote team of contractors and freelancers; oversaw all design and development activities
-* Worked closely with the business owner on core data processing algorithm experiments
+* Worked closely with the business owner experimenting on the core data processing algorithms
 * Established an RFC-style system to document technical proposals and key design decisions
 * Implemented a back-end service as a modular monolith, designed for extraction into services
 * Took a domain-driven design approach to application architecture
@@ -154,7 +153,7 @@ Technical Lead at Helastel • Contract • 2018 - 2019
 * Undertook rapid prototyping to help estimate costs and timelines, and to mitigate delivery risks
 * Used monthly checkpoints to establish trust with the customer
 * Created dozens of custom WordPress plugins
-* Wrote scripts to automate the migration of 17 years of editorial and user-generated content
+* Wrote shell scripts to automate the migration of 17 years of editorial and user-generated content
 * Switched-over with minimal downtime and no subsequent issues in production
 * The solution, delivered on time and to budget, met all functional and non-functional requirements
 --
@@ -165,7 +164,7 @@ ifdef::full[]
 *Fresenius Kabi* +
 Software Developer at Helastel • Contract • 2018
 
-* Salvaged a struggling software project
+* Salvaged a failing software project
 * Identified and prioritised issues
 * Enhanced the accuracy of project estimation and delivery reports
 * Successfully delivered a custom CRM operating on the NHS IT network
@@ -180,9 +179,9 @@ Full-Stack Web Developer • Contract • 2017
 
 * Helped launch an enterprise software-as-a-service built on Laravel
 * Collaborated with UX designers on critical user journeys
-* Redesigned the onboarding journey, in which early user testing revealed poor conversion rates
+* Redesigned the onboarding journey, where beta testing had revealed poor conversion rates
 * Refactored code to improve time-to-first render and other performance metrics
-* Made extensive use of Laravel's jobs queue system to remove processing from the main execution thread
+* Made extensive use of Laravel's jobs queue system for optimum performance on the main execution thread
 --
 endif::[]
 
@@ -193,7 +192,7 @@ ifdef::full[]
 Technical Writer • Freelance • 2017
 
 * Rewrote all user-facing documentation to improve accuracy and readability
-* Reverse-engineered CurrencyCloud's public web service to create a complete OpenAPI specification
+* Reverse engineered CurrencyCloud's public web service to create a complete OpenAPI specification
 --
 endif::[]
 
@@ -207,7 +206,8 @@ Full-Stack Web Developer • Permanent • 2016 - 2017
 * Designed and implemented a new HTTP API, decoupling the client-side from the server-side
 * Supervised the development of iOS and Android clients
 * Worked with the data engineer to iterate the database design in a non-breaking way
-* Optimised slow-running SQL queries; added load balancing and caching infrastructure
+* Optimised slow-running SQL queries
+* Added load balancing and caching infrastructure
 * Administered physical Linux servers (CentOS)
 * Planned for an incremental transition to cloud infrastructure (GCP)
 --
