@@ -47,7 +47,10 @@ Software Developer III • Contract • 2024
 NOTES:
 ECL is similar in concept to Hadoop's MapReduce programming model. A declarative,
 functional, data-oriented, programming language, it enables the processing of big
-datasets in parallel across a computer cluster.
+datasets in parallel across a computer cluster. It runs on HPCC (High Performance
+Computing Cluster), an open source, massive parallel-processing computing
+platform, owned and maintained by LexisNexis and specializing in big data
+processing and analytics.
 ////
 --
 
