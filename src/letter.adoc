@@ -28,43 +28,41 @@ Bristol, UK
 
 To whom it may concern,
 
-== <Job Title>
+== <Job Title> at <Company Name>
 
-I'm writing to express my interest in the above role at <Company Name>.
+I'm writing to express my interest in the above job opening.
 
 I have two decades of experience delivering web-based enterprise application
-software. I like to work across the whole software development life cycle,
-from analysing requirements and drafting specifications, via architectural
-design and infrastructure planning, to testing and release. At various times
-I've filled the roles of developer, business analyst, technical architect, and
-team lead.
+software. I like to work across the whole development life cycle, from analysing
+requirements and drafting specifications, via architectural design and
+infrastructure planning, to testing and release. At various times I've filled
+the roles of developer, system analyst, technical architect, and team lead.
 
 I often engage with stakeholders outside of the development teams, for example
-collaborating with product managers on technical decisions, and communicating
-directly with end users. With a prior career in technology journalism, I'm
-good at communicating concepts and translating requirements between the
-business and technical domains.
+collaborating with product managers or communicating directly with end users.
+With a prior career in technology journalism, I'm good at communicating
+technical concepts to non-technical audiences, and translating business
+domains into product requirements and solution designs.
 
 In technical leadership roles I've managed teams, shaped standards, documented
 processes, and coached individuals. I've made key design decisions in
 large-scale distributed systems, and coordinated the subsequent implementation
 across multiple work streams.
 
-Although I'm increasingly engaged in project management, team leadership, and
-architectural design, I still like to be hands-on as much as I can. My
-computer programming experience is centred on the web platform, but I also have
-experience with Java, Python, and Go. I'm effective at switching between
-high-level strategies and design, and zooming in on low-level implementation
-details.
+Still, I like to be hands-on as much as I can. My computer programming
+experience is centred on the web platform, but I also have experience with
+Java, Python, and Go. I'm effective at switching between high-level strategies
+and design, and zooming in on low-level implementation details.
 
 I prioritise _quality_ in outcomes. I promote industry best practices that are
-formed from empirical evidence of what works best, such as test-driven
+formed from empirical evidence of what works best, things like test-driven
 development, pair programming, continuous integration, and continuous deployment
-supported by feature flags. I advocate lightweight change management processes
-driven by fast feedback loops, and consensus decision-making in the context of
-learning-oriented and psychologically-safe work environments. These methods
-and tools are proven to increase the likelihood of successful outcomes in all
-kinds of software projects.
+supported by feature flags. I advocate lightweight change management processes,
+iterative and incremental development driven by fast feedback loops, and
+consensus decision-making in the context of learning-oriented and
+psychologically-safe work environments. These methods and tools are proven to
+increase the likelihood of successful outcomes in all kinds of software
+projects.
 
 Thank you for considering my application.
 
