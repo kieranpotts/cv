@@ -204,7 +204,6 @@ endif::[]
 *Zapmap* +
 Full-Stack Web Developer • Permanent • 2016 - 2017
 
-* Collaborated closely with business stakeholders
 * Begun work to increment away from a tightly coupled monolith to a more scalable solution
 * Designed and implemented a new HTTP API, decoupling the client-side from the server-side
 * Supervised the development of iOS and Android clients
