@@ -14,7 +14,7 @@ Staff Software Developer
 {link-linkedin}[linkedin.com/in/kieranpotts] • {link-github}[github.com/kieranpotts] • {link-blog}[kieranpotts.com] +
 \hello@kieranpotts.com • 07706 130 393 • Bristol, UK
 
-== Specialisations
+== Technical specialisations
 
 * Full-stack web application design
 * React, Vue, front-end web UIs
