@@ -32,20 +32,18 @@ To whom it may concern,
 
 I'm writing to express my interest in the above role at <Company Name>.
 
-For nearly 20 years I've provided IT consultancy to small-and-medium sized
-businesses, and designed and implemented enterprise application software for
-many domains.
+I have two decades of experience delivering web-based enterprise application
+software. I like to work across the whole software development life cycle,
+from analysing requirements and drafting specifications, via architectural
+design and infrastructure planning, to testing and release. At various times
+I've filled the roles of developer, business analyst, technical architect, and
+team lead.
 
-I have broad experience in software development. I work across the whole
-software development life cycle, from analysing requirements and drafting
-specifications, via architectural design and infrastructure planning, to testing
-and release. At various times I have filled the roles of developer, business
-analyst, technical architect, and team lead.
-
-I engage with stakeholders outside of the development teams, collaborating with
-product managers on technical decisions, and interacting directly with end
-users. I translate requirements and communicate concepts between the business
-and technical domains.
+I often engage with stakeholders outside of the development teams, for example
+collaborating with product managers on technical decisions, and communicating
+directly with end users. With a prior career in technology journalism, I'm
+good at communicating concepts and translating requirements between the
+business and technical domains.
 
 In technical leadership roles I've managed teams, shaped standards, documented
 processes, and coached individuals. I've made key design decisions in
@@ -61,11 +59,12 @@ details.
 
 I prioritise _quality_ in outcomes. I promote industry best practices that are
 formed from empirical evidence of what works best, such as test-driven
-development, continuous integration, and fully automated deployments. I advocate
-lightweight change management processes driven by fast feedback loops, and
-consensus decision-making in the context of learning-oriented and
-psychologically-safe working environments. These methods and tools are proven to
-increase the likelihood of successful outcomes in all kinds of software projects.
+development, pair programming, continuous integration, and continuous deployment
+supported by feature flags. I advocate lightweight change management processes
+driven by fast feedback loops, and consensus decision-making in the context of
+learning-oriented and psychologically-safe work environments. These methods
+and tools are proven to increase the likelihood of successful outcomes in all
+kinds of software projects.
 
 Thank you for considering my application.
 
