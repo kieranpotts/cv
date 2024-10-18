@@ -33,10 +33,9 @@ To whom it may concern,
 I'm writing to express my interest in the above job opening.
 
 I have two decades of experience delivering web-based enterprise application
-software. I like to work across the whole development life cycle, from analysing
-requirements and drafting specifications, via architectural design and
-infrastructure planning, to testing and release. At various times I've filled
-the roles of developer, system analyst, technical architect, and team lead.
+software. I'm a full-stack developer and I like to work across the whole
+development life cycle, from analysing requirements and drafting specifications,
+via architectural design and infrastructure planning, to testing and release.
 
 I often engage with stakeholders outside of the development teams, for example
 collaborating with product managers or communicating directly with end users.
